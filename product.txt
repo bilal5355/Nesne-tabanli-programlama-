@@ -1,0 +1,8 @@
+Taş, 10.5, 3
+Kağıt, 5.0, 5
+Makas, 7.8, 2
+Kalem, 3.5, 10
+Defter, 8.0, 7
+Silgi, 2.5, 4
+Renkli Kalem, 15.0, 3
+Kitap, 20.0, 6
